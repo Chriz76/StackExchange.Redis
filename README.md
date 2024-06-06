@@ -1,3 +1,5 @@
+https://www.dropbox.com/scl/fi/55b63ydjyfom8iadrwhgc/espruino_2v10.102_magic3-dafit.bin?rlkey=tegbo10aifv6549mrucfvls8m&dl=0
+
 StackExchange.Redis
 ===================
 
